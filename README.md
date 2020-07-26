@@ -7,3 +7,9 @@ This repository is a personal self-study guide to developing a greater understan
 ## Table of Contents
 
 - [Algorithm Analysis](Algorithm-Analysis/README.md)
+
+## Study Guide Help
+
+- [OSSU Self-Taught CS](https://github.com/ossu/computer-science)
+- [Self-Learning Modern CS](https://functionalcs.github.io/curriculum/)
+- [Cracking the Coding Interview Guide](https://www.youtube.com/watch?v=WVdNUFHnvJU)
