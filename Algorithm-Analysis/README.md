@@ -41,3 +41,4 @@ _Resources:_
   - [MIT Lecture 1](https://www.youtube.com/watch?v=JPyuH4qXLZ0)
   - [Balancing Time and Memory Complexity](https://www.freecodecamp.org/news/finding-the-balance-between-time-and-memory-complexity-an-illustrated-example-4845ab7afadd/)
   - [Space Complexity Basics](https://www.studytonight.com/data-structures/space-complexity-of-algorithms)
+  - [Big O, Little O, Theta, Omega](https://cathyatseneca.gitbooks.io/data-structures-and-algorithms/content/analysis/notations.html)
